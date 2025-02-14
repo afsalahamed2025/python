@@ -67,11 +67,20 @@
 # show(name="afsal", gender="male",place="cbe")
 
 
-def show(name,gender="male"):
-    print("my name is",name,"i am ",gender )
-show(name="afsal", gender="male")
-show(name="mani", gender="male")
-show(name="abc", gender="female")
-show(name="raja")
+# def show(name,gender="male"):
+#     print("my name is",name,"i am ",gender )
+# show(name="afsal", gender="male")
+# show(name="cba", gender="male")
+# show(name="abc", gender="female")
+# show(name="raja")
+
+
+def his(name, roll="spiderman"):
+    print("My Name is", name,"I am ",roll)
+his(name="afsal", roll="superstar")
+his(name="maniya", roll="tiger-man")
+his(name="meeran", roll="ayan-man")
+his(name="hash")
+
 
 

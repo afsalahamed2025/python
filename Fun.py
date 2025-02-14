@@ -30,13 +30,14 @@
 #     print(a + b)
 # add(50,50)
 
-# function with return with parameter
+# # function with return with parameter
 # def his(a,b):
+#      c=a+b
 #
-#     return a+b
+#      return c
 #
-# x=his( 25,25)
-# print(x)
+# g=his(23,10)
+# print(g)
 
 
 

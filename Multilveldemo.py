@@ -11,8 +11,6 @@ class Grandfather:
 
 
 
-
-
 class Father(Grandfather):
 
     def house(self):
