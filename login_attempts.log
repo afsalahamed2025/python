@@ -1,0 +1,12 @@
+2025-02-26 11:31:37,329 - ERROR - Unexpected error: EOF when reading a line
+2025-02-26 11:31:38,905 - ERROR - Unexpected error: EOF when reading a line
+2025-02-26 11:35:13,648 - ERROR - Unexpected error: EOF when reading a line
+2025-02-26 11:35:15,568 - ERROR - Unexpected error: EOF when reading a line
+2025-02-26 11:44:51,985 - INFO - Successful login attempt by admin
+2025-02-26 11:45:38,809 - WARNING - Failed login attempt 1 for user aSDSR
+2025-02-26 11:45:52,000 - WARNING - Failed login attempt 2 for user BASGD
+2025-02-26 11:45:56,017 - WARNING - Failed login attempt 3 for user 2354SDFGDSFG
+2025-02-26 11:54:11,798 - WARNING - Failed login attempt 1 for user raji
+2025-02-26 11:54:39,087 - INFO - Successful login attempt by admin
+2025-02-26 12:25:56,398 - WARNING - Failed login attempt 1 for user yusuf
+2025-02-26 12:26:06,502 - INFO - Successful login attempt by admin
