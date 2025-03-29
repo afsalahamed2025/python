@@ -1,29 +1,30 @@
 from operator import index
 
-try:
-    a=10/0
-    print(a)
-
-except Exception as e:
-    print(e)
-from tkinter.font import names
- # INDEX STRING LA IROKKA KUDATHU
-try:
-    number = [1,21,5]
-    print(number)
-
-except IndexError as e:
-    print("e")
-
-
+# INDEX STRING LA IROKKA KUDATHU
 # try:
 #     a=10/0
 #     print(a)
 #
 # except Exception as e:
 #     print(e)
-# from tkinter.font import names
+from tkinter.font import names
+
+# try:
+#     number = [1,21,5]
+#     print(number)
+#
+# except IndexError as e:
+#     print("e")
+
 # NAME ERROR STRING LA IROKALAM
+# try:
+#     a=10/0
+#     print(a)
+#
+# except Exception as e:
+#     print(e)
+from tkinter.font import names
+
 # try:
 #    print(a)
 #
@@ -33,7 +34,6 @@ except IndexError as e:
 
 
 from tkinter.font import names
-# nu
 try:
      name = int(input("type pandra"))
 
